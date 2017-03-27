@@ -4,7 +4,7 @@
 
 </head>
 <body>
-<h1>WINGS-Project1-YOUR THINGS</h1>
+<h1>WINGS-Project1-HOSPITAL</h1>
 <h2> Danh sách thành viên nhóm: </h2>
    <table style="width:100%">
   <tr>
@@ -38,16 +38,16 @@
   </tr>
 </table>
 <h2>1. Thực trạng</h2>
-<p>Tuy rằng việc kinh doanh trên mạng đang phát triển rất mạnh nhưng bên cạnh đó còn nhiều bất cập như:
-<li> Chất lượng hàng hóa ở ngoài  thực tế khác xa so với trên mạng, dễ bị lừa đảo</li>
-<li> Có nhưng món hàng không thể dễ dàng kiếm trên các trang điện tử bán hàng online, khó khăn trong việc tìm kiếm</li>
-<li> Thời gian giao hàng chậm chạp, phí vận chuyển, …</li>
-<li> Khó có thể so sánh giá cả, không giúp tiết kiệm</li>
-<li> Nhiều người còn e dè với hình thức mua sắm online</li>
+<li> Các bệnh viện hiện nay thường trong tình trạng quá tải, người khám bệnh phải đi sớm hàng nhiều tiếng trước giờ làm việc chỉ để nộp sổ khám bệnh hay xếp hàng trước, thậm chí còn có tình trạng nhờ bác xe ôm để khám trước. Tình trạng lúc nào cũng đông dẫn tới nhiều hệ lụy tiêu cực khác như: móc túi, nhân viên tiếp đón quá tải, nhà xe không đủ chỗ, …
+</li>
+<li> Nhiều người khám bệnh không biết phòng khám của mình hay nhà vệ sinh, các phòng ban của bệnh viện ở đâu khi đi khám bệnh.
+</li>
 </p>
-<h3>2. Đối tượng</h3>
-<p><li> Người tiêu dùng</li>
-<li> Các doanh nghiệp, cửa hàng ở tất cả các qui mô</li></p>
+<h3>2. Mục đích</h3>
+<p><li> Giúp người khám bênh và thân nhân giảm thời gian đi khám bệnh và dễ dàng di chuyển trong bệnh viện.
+</li>
+<li> Giảm áp lực cho bệnh viện, phân phối người khám bệnh 1 cách hợp lý.
+</li></p>
 <h4>3. Giải pháp</h4>
 <p>Tạo ra một phần mềm ứng dụng chạy trên điện thoại và máy vi tính:
 <li> Giúp mọi người tìm được địa điểm mua hàng xung quanh bằng cách nhập ten mặt hàng hoặc scan mã vạch, hoặc nếu được có thể phát triển chức năng quét ảnh nhận diện sản phẩm</li>
