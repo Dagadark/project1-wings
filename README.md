@@ -49,15 +49,13 @@
 <li> Giảm áp lực cho bệnh viện, phân phối người khám bệnh 1 cách hợp lý.
 </li></p>
 <h4>3. Giải pháp</h4>
-<p>Tạo ra một phần mềm ứng dụng chạy trên điện thoại và máy vi tính:
-<li> Giúp mọi người tìm được địa điểm mua hàng xung quanh bằng cách nhập ten mặt hàng hoặc scan mã vạch, hoặc nếu được có thể phát triển chức năng quét ảnh nhận diện sản phẩm</li>
-<li> Là cầu nối giữa các cửa hàng, doanh nghiệp và nhà phân phối với khách hàng khi các cửa hàng có thể đánh dấu địa điểm của mình lên bản đồ, đồng thời cập nhật danh mục các sản phẩm</li>
-<li> Những người dùng có thể tự đánh dấu những địa điểm có thể mua được từng mặt hàng vào bản đồ của mình, đây cũng là một cơ sở dữ liệu để giúp bản đồ thêm phóng phú</li>
-<li> Người dùng có thể đánh giá của hàng, sản phẩm, hoặc kiến nghị nếu thông tin bị sai lệch, gửi các feedback để các người quản lý phần mềm xem xét điều chỉnh hoặc kiểm tra</li>
-<li> Người dùng có thể tự đánh dấu địa điểm của mình và đăng bán những thứ cần bán</li>
-<li> Vừa là phương tiện quảng cáo, vừa là cơ sở dữ liệu giúp các doanh nghiệp, cửa hàng quản lý sản phẩm của mình (có thể tính phí cho chức năng này)</li>
-
-</p>
+<p>Tạo ra ứng dụng đặt vé khám bệnh (kèm chỉ dẫn):
+<li> Mô tả ứng dụng: Người dùng chỉ cần điền đầy đủ thông tin cá nhân, tình trạng bệnh tổng quát, thời gian khám mong muốn; phần mềm sẽ trả về kết quả bao gồm lịch và phòng khám, kèm theo chỉ dẫn bản đồ di chuyển trong bệnh viện để đi đến phòng khám của mình cho người dùng.</li>
+<li> Cách thực hiện: Đi vào các bệnh viện để thu thập dữ liệu, từ đó rút ra các thông tin cần thiết như bản đồ các phòng ban, tên bác sĩ,… từ đó xây dựng ứng dụng.</li>
+<li> Mở rộng: Thanh toán qua thẻ, Có thể kết nối với Google map để chỉ đường tới bệnh viện rồi sau đó có chỉ đường trong bệnh viện.
+</li></p>
+<h4>4. Đối tượng</h4>
+<li>Người bệnh và thân nhân, các bệnh viện.</li>
 
 </body>
 </html>
