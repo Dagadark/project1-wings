@@ -43,18 +43,18 @@
 <li> Nhiều người khám bệnh không biết phòng khám của mình hay nhà vệ sinh, các phòng ban của bệnh viện ở đâu khi đi khám bệnh.
 </li>
 </p>
-<h3>2. Mục đích</h3>
+<h2>2. Mục đích</h2>
 <p><li> Giúp người khám bênh và thân nhân giảm thời gian đi khám bệnh và dễ dàng di chuyển trong bệnh viện.
 </li>
 <li> Giảm áp lực cho bệnh viện, phân phối người khám bệnh 1 cách hợp lý.
 </li></p>
-<h4>3. Giải pháp</h4>
+<h2>3. Giải pháp</h2>
 <p>Tạo ra ứng dụng đặt vé khám bệnh (kèm chỉ dẫn):
 <li> Mô tả ứng dụng: Người dùng chỉ cần điền đầy đủ thông tin cá nhân, tình trạng bệnh tổng quát, thời gian khám mong muốn; phần mềm sẽ trả về kết quả bao gồm lịch và phòng khám, kèm theo chỉ dẫn bản đồ di chuyển trong bệnh viện để đi đến phòng khám của mình cho người dùng.</li>
 <li> Cách thực hiện: Đi vào các bệnh viện để thu thập dữ liệu, từ đó rút ra các thông tin cần thiết như bản đồ các phòng ban, tên bác sĩ,… từ đó xây dựng ứng dụng.</li>
 <li> Mở rộng: Thanh toán qua thẻ, Có thể kết nối với Google map để chỉ đường tới bệnh viện rồi sau đó có chỉ đường trong bệnh viện.
 </li></p>
-<h4>4. Đối tượng</h4>
+<h2>4. Đối tượng</h2>
 <li>Người bệnh và thân nhân, các bệnh viện.</li>
 
 </body>
