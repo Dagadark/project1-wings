@@ -44,7 +44,7 @@
 </li>
 </p>
 <h2>2. Mục đích</h2>
-<p><li> Giúp người khám bênh và thân nhân giảm thời gian đi khám bệnh và dễ dàng di chuyển trong bệnh viện.
+<p><li> Giúp người khám bệnh và thân nhân giảm thời gian đi khám bệnh và dễ dàng di chuyển trong bệnh viện.
 </li>
 <li> Giảm áp lực cho bệnh viện, phân phối người khám bệnh 1 cách hợp lý.
 </li></p>
