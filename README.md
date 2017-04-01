@@ -38,17 +38,10 @@
   </tr>
 </table>
 <h2>1. Thực trạng</h2>
-<li> Các bệnh viện hiện nay thường trong tình trạng quá tải, người khám bệnh phải đi sớm hàng nhiều tiếng trước giờ làm việc chỉ để nộp sổ khám bệnh hay xếp hàng trước, thậm chí còn có tình trạng nhờ bác xe ôm để khám trước. Tình trạng lúc nào cũng đông dẫn tới nhiều hệ lụy tiêu cực khác như: móc túi, nhân viên tiếp đón quá tải, nhà xe không đủ chỗ, …
-</li>
-<li>Nhiều người khám bệnh không biết phòng khám của mình hay nhà vệ sinh, các phòng ban của bệnh viện ở đâu khi đi khám bệnh. </li>
+<li> Các bệnh viện hiện nay thường trong tình trạng quá tải, người khám bệnh phải đi sớm hàng nhiều giờ đồng hồ trước giờ làm việc để xếp hàng. Tình trạng lúc này cũng dẫn tới nhiều hệ lụy tiêu cực khác như: móc túi, nhân viên tiếp đón quá tải thiếu nhiệt tình, cơ sở vật chất bệnh viện không đủ để đáp ứng, không đảm bảo vệ sinh,... dẫn đén chất lượng khám chữa bệnh đi xuống rõ rệt.</li>
+<li>Bên cạnh đó nhiều người khám bệnh cũng bỡ ngỡ trong việc tìm kiếm các phòng ban liên quan trong quá trình khám và chữa bệnh </li>
 
-
-<h2>2. Mục đích</h2>
-<p><li> Giúp người khám bệnh và thân nhân giảm thời gian đi khám bệnh và dễ dàng di chuyển trong bệnh viện.
-</li>
-<li> Giảm áp lực cho bệnh viện, phân phối người khám bệnh 1 cách hợp lý.
-</li></p>
-<h2>3. Giải pháp</h2>
+<h2>2. Giải pháp</h2>
 <p>Tạo ra ứng dụng đặt vé khám bệnh dưới dạng app trên mobile (kèm chỉ dẫn):
 <h3>A. Mô tả ứng dụng:</h3>
 <h4>Đối với người dùng:</h4>
@@ -74,12 +67,14 @@
 <p>Sơ đồ</p>
 <h4>Chi tiết kỹ thuật</h4>
 <p>Sử dụng các thuật toán sắp xếp, tìm kiếm, so sánh để trả lại kết quả cho người sử dụng.</p>
-<h2>4. Lợi ích mang lại</h2>
+
+<h2>3. Lợi ích mang lại</h2>
 <li>Đối với người sử dụng: Tiết kiệm thơi gian, công sức chờ đợi</li>
 <li>Đối với các bệnh viện: Tiết kiệm nhân công, giảm tình trạng quá tải</li>
 <li>Đối với các ngân hàng: Tăng lượng người sử dụng dịch vụ</li>
 <li>Đối với nhà phát triển ứng dụng: Thu lợi nhuận từ quảng cáo, bản quyền.</li>
-<h2>5. Khó khăn</h2>
+
+<h2>4. Khó khăn</h2>
 <li>Các phần tử chống phá: đặt lịch ảo gây ảnh hưởng cho bệnh viện và bệnh nhân </li>
 <p>   Giải pháp: thu tiền cọc trong mỗi lần đặt vé khám bệnh online</p>
 <li>Nhiều bệnh nhân không được tiếp xúc với công nghệ</li>
