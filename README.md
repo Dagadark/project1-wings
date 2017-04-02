@@ -72,11 +72,11 @@
 <h4>Chi tiết kỹ thuật:</h4>
 <p>Sử dụng các thuật toán sắp xếp, tìm kiếm, so sánh để trả lại kết quả cho người sử dụng.</p>
 
-<h2>3. Lợi ích mang lại</h2>
-<li>Đối với người sử dụng: Tiết kiệm thơi gian, công sức chờ đợi.</li>
-<li>Đối với các bệnh viện: Tiết kiệm nhân công, giảm tình trạng quá tải.</li>
-<li>Đối với các ngân hàng: Tăng lượng người sử dụng dịch vụ.</li>
-<li>Đối với nhà phát triển ứng dụng: Thu lợi nhuận từ quảng cáo, bản quyền.</li>
+<h2>3. Đối tượng-Lợi ích:</h2>
+<li>Người sử dụng: Tiết kiệm thơi gian, công sức chờ đợi.</li>
+<li>Các bệnh viện: Tiết kiệm nhân công, giảm tình trạng quá tải.</li>
+<li>Các ngân hàng: Tăng lượng người sử dụng dịch vụ.</li>
+<li>Nhà phát triển ứng dụng: Thu lợi nhuận từ quảng cáo, bản quyền.</li>
 
 <h2>4. Khó khăn:</h2>
 <li>Các phần tử chống phá: đặt lịch ảo gây ảnh hưởng cho bệnh viện và bệnh nhân .</li>
