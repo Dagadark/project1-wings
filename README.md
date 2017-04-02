@@ -64,7 +64,9 @@
 <li>Kết nối giũa ngân hàng, bệnh viện và ứng dụng tạo nên một quy trình khép kín chặt chẽ</li>
 <h3>B. Nguyên lý hoạt động</h3>
 <h4>Nguyên lý hoạt động của app được thể hiện qua sơ đồ sau</h4>
-<p>Sơ đồ</p>
+<img src="https://github.com/nmcntt2-cntn2016/project1-wings/blob/master/ThucTrang_SoDo.png" />
+
+
 <h4>Chi tiết kỹ thuật</h4>
 <p>Sử dụng các thuật toán sắp xếp, tìm kiếm, so sánh để trả lại kết quả cho người sử dụng.</p>
 
