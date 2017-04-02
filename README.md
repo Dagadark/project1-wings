@@ -58,11 +58,11 @@
 <li>Bảo hiểm y tế: Quét mã QR.</li>
 <li>Tài khoản ngân hàng: </li>
 <h5>2) Sau các bước đăng ký cơ bản người dùng đã hoàn tất, người dùng đã có thể bắt đầu sử dụng app để hỗ trợ mình trong quá trình đặt lịch khám bệnh.</h5>
-<li>B1: Người dùng cung cấp tình trạnng sức khỏe (App sẽ cung cấp list các triệu chứng bệnh phổ biến để người dùng dễ dàng chọn lựa), ngày khám bệnh, app sẽ xử lý thông tin trả về các thời gian trống trong ngày, cũng có thể là các ngày giờ lân cận để người dùng lựa chọn một cách dễ nhàng và phù hợp nhất</li>
+<li>B1: Người dùng cung cấp tình trạnng sức khỏe (App sẽ cung cấp list các triệu chứng bệnh phổ biến để người dùng dễ dàng chọn lựa), ngày khám bệnh, app sẽ xử lý thông tin trả về các thời gian trống trong ngày, cũng có thể là các ngày giờ lân cận để người dùng lựa chọn một cách dễ nhàng và phù hợp nhất.</li>
 <li>B2: Người dùng xác nhận lịch khám và đặt cọc phí theo yêu cầu qua tài khoản ngân hàng.</li>
-<h4>II. Đối với các bệnh viện</h4>
+<h4>II. Đối với các bệnh viện:</h4>
 <li>Bệnh viện cung cấp các thông tin về các khoa, các bác sĩ, qui trình khám bệnh, sơ đồ bệnh viện cho bệnh nhân dễ dàng nắm rõ các chi tiết, thuận tiện hơn khi đến khám bệnh.</li>
-<li>Bệnh viện thực hiện liên kết với các ngân hàng cho sự hiệu quả trong quá trình đặt cọc viện phí của bệnh nhân</li>
+<li>Bệnh viện thực hiện liên kết với các ngân hàng cho sự hiệu quả trong quá trình đặt cọc viện phí của bệnh nhân.</li>
 <li>Kết nối giũa ngân hàng, bệnh viện và ứng dụng tạo nên một quy trình khép kín chặt chẽ.</li>
 <h3>B. Nguyên lý hoạt động:</h3>
 <h4>Nguyên lý hoạt động của app được thể hiện qua sơ đồ sau: </h4>
