@@ -70,8 +70,18 @@
 
 
 <h4>Chi tiết kỹ thuật:</h4>
-<p>Sử dụng các thuật toán sắp xếp, tìm kiếm, so sánh để trả lại kết quả cho người sử dụng.</p>
-
+<p>Quá trình phát triển ứng dụng trải qua các bước sau: </p>
+<li>B1: Dựng Wireframing</li>
+<li>B2: Thiết kế giao diện App</li>
+<li>B3: Lập trình thiết kế app (front-end)</li>
+<li>B4: Thiết lập cơ cấu bên máy chủ của ứng dụng (cloud / back-end) và tạo cấu trúc cơ sở dữ liệu.</li>
+<li>B5: Viết tất cả các mã server-side để thi hành các chức năng back-end.</li>
+<li>B6: Phát triển API</li>
+<li>B7: Thử nghiệm các giao diện app để kiểm tra lỗi và xử lý các vấn đề.</li>
+<li>B8: Đảm bảo Chất lượng về Đa nền tảng, Đa thiết bị, Các phiên bản HĐH, Độ phân giải</li>
+<li>B9: Đảm bảo chất lượng Back-end</li>
+<li>B10: Thiết lập Cloud</li>
+<li>B11: Đăng lên chợ ứng dụng</li>
 <h2>3. Đối tượng-Lợi ích:</h2>
 <li>Người sử dụng: Tiết kiệm thơi gian, công sức chờ đợi.</li>
 <li>Các bệnh viện: Tiết kiệm nhân công, giảm tình trạng quá tải.</li>
