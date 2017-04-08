@@ -82,15 +82,16 @@
 <li>B9: Đảm bảo chất lượng Back-end</li>
 <li>B10: Thiết lập Cloud</li>
 <li>B11: Đăng lên chợ ứng dụng</li>
+<p>Các môn học cần thiết</p>
+<li>1/ Phân tích yêu cầu phần mềm, phân tích thiết kế phần mềm</li>
+<li>2/ Lập trình mạng</li>
+<li>3/ hệ thống lưu trữ cơ sở dữ liệu</li>
 <h2>3. Đối tượng-Lợi ích:</h2>
 <li>Người sử dụng: Tiết kiệm thơi gian, công sức chờ đợi.</li>
 <li>Các bệnh viện: Tiết kiệm nhân công, giảm tình trạng quá tải.</li>
 <li>Các ngân hàng: Tăng lượng người sử dụng dịch vụ.</li>
 <li>Nhà phát triển ứng dụng: Thu lợi nhuận từ quảng cáo, bản quyền.</li>
-<p>Các môn học cần thiết</p>
-<li>1/ Phân tích yêu cầu phần mềm, phân tích thiết kế phần mềm</li>
-<li>2/ Lập trình mạng</li>
-<li>3/ hệ thống lưu trữ cơ sở dữ liệu</li>
+
 <h2>4. Khó khăn:</h2>
 <li>Các phần tử chống phá: đặt lịch ảo gây ảnh hưởng cho bệnh viện và bệnh nhân .</li>
 <p>   Giải pháp: thu tiền cọc trong mỗi lần đặt vé khám bệnh online.</p>
