@@ -70,7 +70,7 @@
 
 
 <h4>Chi tiết kỹ thuật:</h4>
-<p>Quá trình phát triển ứng dụng trải qua các bước sau: </p>
+<h5>Quá trình phát triển ứng dụng trải qua các bước sau: </h5>
 <li>B1: Dựng Wireframing</li>
 <li>B2: Thiết kế giao diện App</li>
 <li>B3: Lập trình thiết kế app (front-end)</li>
@@ -82,7 +82,7 @@
 <li>B9: Đảm bảo chất lượng Back-end</li>
 <li>B10: Thiết lập Cloud</li>
 <li>B11: Đăng lên chợ ứng dụng</li>
-<p>Các môn học cần thiết</p>
+<h5>Các môn học cần thiết</h5>
 <li>1/ Phân tích yêu cầu phần mềm, phân tích thiết kế phần mềm</li>
 <li>2/ Lập trình mạng</li>
 <li>3/ hệ thống lưu trữ cơ sở dữ liệu</li>
