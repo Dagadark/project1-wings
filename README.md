@@ -85,7 +85,7 @@
 <h5>Các môn học cần thiết</h5>
 <li>1/ Phân tích yêu cầu phần mềm, phân tích thiết kế phần mềm</li>
 <li>2/ Lập trình mạng</li>
-<li>3/ hệ thống lưu trữ cơ sở dữ liệu</li>
+<li>3/ Hệ thống lưu trữ cơ sở dữ liệu</li>
 <h2>3. Đối tượng-Lợi ích:</h2>
 <li>Người sử dụng: Tiết kiệm thơi gian, công sức chờ đợi.</li>
 <li>Các bệnh viện: Tiết kiệm nhân công, giảm tình trạng quá tải.</li>
