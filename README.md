@@ -4,8 +4,7 @@
 
 </head>
 <body>
-<h1>Website giới thiệu sản phẩm:</h1>
-<p>https://nmcntt2-cntn2016.github.io/wings/</p>
+
 <h1>WINGS-Project1-HOSPITAL</h1>
 <h2> Danh sách thành viên nhóm: </h2>
    <table style="width:100%">
@@ -39,6 +38,8 @@
         <td>1612233</td>
   </tr>
 </table>
+<h2>Website giới thiệu sản phẩm:</h2>
+<p>https://nmcntt2-cntn2016.github.io/wings/</p>
 <h2>1. Thực trạng:</h2>
 <li> Các bệnh viện hiện nay thường trong tình trạng quá tải, người khám bệnh phải đi sớm hàng nhiều giờ đồng hồ trước giờ làm việc để xếp hàng. Tình trạng lúc này cũng dẫn tới nhiều hệ lụy tiêu cực khác như: móc túi, nhân viên tiếp đón quá tải thiếu nhiệt tình, cơ sở vật chất bệnh viện không đủ để đáp ứng, không đảm bảo vệ sinh,... dẫn đén chất lượng khám chữa bệnh đi xuống rõ rệt.</li>
 <li>Bên cạnh đó nhiều người khám bệnh cũng bỡ ngỡ trong việc tìm kiếm các phòng ban liên quan trong quá trình khám và chữa bệnh. </li>
