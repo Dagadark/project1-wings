@@ -4,6 +4,8 @@
 
 </head>
 <body>
+<h1>Website giới thiệu sản phẩm:</h1>
+<p>https://nmcntt2-cntn2016.github.io/wings/</p>
 <h1>WINGS-Project1-HOSPITAL</h1>
 <h2> Danh sách thành viên nhóm: </h2>
    <table style="width:100%">
