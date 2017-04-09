@@ -5,7 +5,7 @@
 </head>
 <body>
 
-<h1>WINGS-Project1-HOSPITAL</h1>
+<h1>WINGS-YOUR HEALTH</h1>
 <h2> Danh sách thành viên nhóm: </h2>
    <table style="width:100%">
   <tr>
